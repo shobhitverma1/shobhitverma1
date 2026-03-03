@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/shobhitkhowal" target="blank"><img src="https://img.shields.io/twitter/follow/shobhitkhowal?logo=twitter&style=for-the-badge" alt="shobhitkhowal" /></a> </p>
 
-- 🎓 I’m currently Pursuing **B.E from Chandigarh University**
+- 🎓 I’m currently Pursuing **Computer Science Engineering graduate from Chandigarh University**
 
-- 💡 I’m currently learning **DSA, REACT JS**
+- 💡 I’m currently learning **Power BI**
 
 - ✉ Contact me at **shobhitkhowal@gmail.com**
 
