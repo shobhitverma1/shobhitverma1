@@ -1,6 +1,6 @@
 ![logo](https://github.com/shobhitverma1/shobhitverma1/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Shobhit Verma</h1>
-<h3 align="center">Tech Explorer and Learner</h3>
+<h3 align="center">Learning Today, Building Tomorrow 🚀</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.413bedc7cedb100dc413cd47694b74cc?o=7&pid=1.7&rm=3&rurl=https%3a%2f%2fmedia0.giphy.com%2fmedia%2fqgQUggAC3Pfv687qPC%2fgiphy.gif&ehk=0WFoNJZvf2nBGDXdzjWoT5v9NZ6w0dFrsLnAce6f9rM%3d">
 
