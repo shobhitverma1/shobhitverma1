@@ -1,3 +1,4 @@
+![logo](https://github.com/shobhitverma1/shobhitverma1/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Shobhit Verma</h1>
 <h3 align="center">Tech Explorer and Learner</h3>
 
