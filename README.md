@@ -10,7 +10,7 @@
 
 - 🎓 Computer Science Engineering graduate from Chandigarh University
 
-- 💡 I’m currently learning **Power BI**
+- 💡 I’m currently learning **Microsoft Fabric**
 
 - ✉ Contact me at **shobhitkhowal@gmail.com**
 
